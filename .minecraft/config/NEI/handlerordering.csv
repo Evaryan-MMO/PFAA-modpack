@@ -1,0 +1,69 @@
+# Each line in this file should either be a comment (starts with '#') or an ordering.
+# Ordering lines are <handler ID>,<ordering number>.
+# Handlers will be sorted in order of number ascending, so smaller numbers first.
+# Any handlers that are missing from this file will be assigned to 0.
+# Negative numbers are fine.
+# If you delete this file, it will be regenerated with all registered handler IDs.
+appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIFacadeRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIGrinderRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIWorldCraftingHandler,0
+bq_quest,0
+buildcraft.compat.nei.RecipeHandlerAssemblyTable,0
+buildcraft.compat.nei.RecipeHandlerIntegrationTable,0
+buildcraft.compat.nei.RecipeHandlerRefinery,0
+codechicken.nei.recipe.BrewingRecipeHandler,0
+codechicken.nei.recipe.FireworkRecipeHandler,0
+codechicken.nei.recipe.FuelRecipeHandler,0
+codechicken.nei.recipe.FurnaceRecipeHandler,0
+codechicken.nei.recipe.ShapedRecipeHandler,0
+codechicken.nei.recipe.ShapelessRecipeHandler,0
+com.rwtema.extrautils.nei.EnderConstructorHandler,0
+com.rwtema.extrautils.nei.FMPMicroBlocksHandler,0
+com.rwtema.extrautils.nei.InfoHandler,0
+com.rwtema.extrautils.nei.MicroBlocksHandler,0
+com.rwtema.extrautils.nei.SoulHandler,0
+forestry.factory.recipes.nei.NEIHandlerBottler,0
+forestry.factory.recipes.nei.NEIHandlerCarpenter,0
+forestry.factory.recipes.nei.NEIHandlerCentrifuge,0
+forestry.factory.recipes.nei.NEIHandlerFabricator,0
+forestry.factory.recipes.nei.NEIHandlerFermenter,0
+forestry.factory.recipes.nei.NEIHandlerMoistener,0
+forestry.factory.recipes.nei.NEIHandlerSqueezer,0
+forestry.factory.recipes.nei.NEIHandlerStill,0
+hellfirepvp.beebetteratbees.client.gui.BBABGuiRecipeTreeHandler,0
+ic2.neiIntegration.core.recipehandler.AdvRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.AdvShapelessRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.BlastFurnaceRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.BlockCutterRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.CentrifugeRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.CompressorRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.ExtractorRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.FluidCannerRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.LatheRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.MaceratorRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.MetalFormerRecipeHandlerCutting,0
+ic2.neiIntegration.core.recipehandler.MetalFormerRecipeHandlerExtruding,0
+ic2.neiIntegration.core.recipehandler.MetalFormerRecipeHandlerRolling,0
+ic2.neiIntegration.core.recipehandler.OreWashingRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.ScrapboxRecipeHandler,0
+ic2.neiIntegration.core.recipehandler.SolidCannerRecipeHandler,0
+li.cil.oc.integration.nei.CallbackDocHandler,0
+li.cil.oc.integration.nei.ManualUsageHandler,0
+mrtjp.projectred.core.libmc.recipe.PRShapedRecipeHandler,0
+mrtjp.projectred.core.libmc.recipe.PRShapelessRecipeHandler,0
+net.bdew.neiaddons.forestry.bees.BeeBreedingHandler,0
+net.bdew.neiaddons.forestry.bees.BeeProduceHandler,0
+net.bdew.neiaddons.forestry.butterflies.ButterflyBreedingHandler,0
+net.bdew.neiaddons.forestry.trees.TreeBreedingHandler,0
+net.bdew.neiaddons.forestry.trees.TreeProduceHandler,0
+team.chisel.compat.nei.RecipeHandlerChisel,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,0
+tonius.neiintegration.mods.railcraft.RecipeHandlerBlastFurnace,0
+tonius.neiintegration.mods.railcraft.RecipeHandlerCokeOven,0
+tonius.neiintegration.mods.railcraft.RecipeHandlerRockCrusher,0
+tonius.neiintegration.mods.railcraft.RecipeHandlerRollingMachineShaped,0
+tonius.neiintegration.mods.railcraft.RecipeHandlerRollingMachineShapeless,0
