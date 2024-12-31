@@ -86,5 +86,6 @@ instance.cfg
 **/.minecraft/server-resource-packs/
 **/.minecraft/shaderpacks/
 **/.minecraft/texturepacks/
+**/.minecraft/config/splash.properties
 **/.minecraft/options.txt
 **/.minecraft/usernamecache.json
