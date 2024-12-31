@@ -80,7 +80,7 @@ fabric.properties
 instance.cfg
 **/.minecraft/coremods/
 **/.minecraft/logs/
-**/.minecraft/resourepacks/
+**/.minecraft/resourcepacks/
 **/.minecraft/saves/
 **/.minecraft/screenshots/
 **/.minecraft/server-resource-packs/
